@@ -1,0 +1,1 @@
+const Statistics = () => <h3>statistics</h3>

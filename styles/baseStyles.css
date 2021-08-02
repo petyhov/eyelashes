@@ -1,0 +1,18 @@
+body {
+  position: relative;
+  font-size: 18px;
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+  font-family: "UbuntuCondensed";
+}
+
+@font-face {
+  font-family: "UbuntuCondensed";
+  src: url("/fonts/UbuntuCondensed-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
